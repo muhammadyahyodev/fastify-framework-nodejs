@@ -1,0 +1,11 @@
+{
+
+
+  "dependencies": {
+    "fastify": "^4.13.0"
+  },
+
+  "scripts": {
+    "start:dev": "nodemon main.js"
+  }
+}
